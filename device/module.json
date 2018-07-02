@@ -1,0 +1,18 @@
+{
+  "type": "device",
+  "build": [
+    {
+      "relativeDir": "esp32",
+      "cmd": "make all"
+    }
+  ],
+
+  "downloadConfigs": {
+    "boardType": "esp32",
+    "imageFiles": [
+      "device/esp32/build/bootloader/bootloader.bin",
+      "device/esp32/build/blink.bin",
+      "device/esp32/build/partitions_singleapp.bin"
+    ]
+  }
+}

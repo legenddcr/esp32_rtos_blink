@@ -1,0 +1,1 @@
+{"title":"espdemo","cwd":"/home/hacklab/espdemo","initCmd":"yo aliyun-iot:project esp32 false false","buildCmd":"iotcli build","runCmd":"iotcli run"}
