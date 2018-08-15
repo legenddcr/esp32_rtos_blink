@@ -1,1 +1,1 @@
-{"title":"espdemo","cwd":"/home/hacklab/espdemo","initCmd":"yo aliyun-iot:project esp32 false false","buildCmd":"iotcli build","runCmd":"iotcli run"}
+{"title":"esp32_rtos_blink","initCmd":"yo aliyun-iot:project fos esp32devkitc false false false","buildCmd":"iotcli build","runCmd":"iotcli run"}
